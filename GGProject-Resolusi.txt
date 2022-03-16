@@ -1,0 +1,4 @@
+GGProject-Resolusi 3 Bulan Kedepan :
+- Belajar dan mendalamami PHP dan Javascript beserta framework ( Laravel/CI, JSON).
+- Belajar API Pemrograman Website yaitu WebService (RestAPI).
+- Membuat website untuk portofolio GGProject.
